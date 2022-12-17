@@ -1,2 +1,3 @@
 # Weather-Forecast
-Weather analysis with python
+
+### First, get your api from <a href="https://openweathermap.org/" target="_blank">openweather.org</a>
